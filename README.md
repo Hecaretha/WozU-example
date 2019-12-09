@@ -1,2 +1,2 @@
 # WozU-example
-this is a git exampple file
+This is some new text.
